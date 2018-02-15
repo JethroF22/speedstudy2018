@@ -7,10 +7,10 @@
 
 ## Progress
 
-Current Book: You Don't Know JS: Up & Going
-Current Course : JavaScript30
-Courses Completed: 0
-Total Points earned: 240
+* Current Book: You Don't Know JS: Up & Going
+* Current Course : JavaScript30
+* Courses Completed: 0
+* Total Points earned: 240
 
 | Date Finished | Activity                | Points | Links |
 | ------------- | ----------------------- | ------ | ----- |
