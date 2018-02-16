@@ -10,7 +10,7 @@
 * Current Book: You Don't Know JS: Up & Going
 * Current Course : JavaScript30
 * Courses Completed: 0
-* Total Points earned: 480
+* Total Points earned: 720
 
 | Date Finished | Activity                | Points | Links |
 | ------------- | ----------------------- | ------ | ----- |
@@ -18,6 +18,8 @@
 | 14/02         | Video Tutorialx4 | 200     | ----- |
 | 15/02         | Physical Activity (2hr) | 40     | ----- |
 | 15/02         | Video Tutorialx4 | 200     | ----- |
+| 16/02         | Physical Activity (2hr) | 40     | ----- |
+| 16/02         | Video Tutorialx4 | 200     | ----- |
 
 ## On the side
 
