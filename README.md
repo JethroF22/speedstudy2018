@@ -7,10 +7,10 @@
 
 ## Progress
 
-* Current Book: You Don't Know JS: Up & Going
+* Current Book: You Don't Know JS: Scope & Closures
 * Current Course : JavaScript30
 * Courses Completed: 0
-* Total Points earned: 720
+* Total Points earned: 1570
 
 | Date Finished | Activity                | Points | Links |
 | ------------- | ----------------------- | ------ | ----- |
@@ -20,6 +20,10 @@
 | 15/02         | Video Tutorialx4 | 200     | ----- |
 | 16/02         | Physical Activity (2hr) | 40     | ----- |
 | 16/02         | Video Tutorialx4 | 200     | ----- |
+| 17/02         | Video Tutorialx4 | 200     | ----- |
+| 18/02         | Video Tutorialx2 | 100     | ----- |
+| 19/02         | Video Tutorialx5 | 250     | ----- |
+| 19/02         | Completed YDKJS: Up & Going | 200     | [Read Online](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |
 
 ## On the side
 
@@ -29,7 +33,7 @@
 
 ## Tier 1 - getting started
 
-* [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+* [x] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
 * [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 * [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 * [ ] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
