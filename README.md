@@ -31,6 +31,7 @@
 ## On the side
 
 * [x] Course: [JavaScript30](https://javascript30.com/)
+* [ ] Course: [The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition/)
 
 # Computer Science and Web Development - comprehensive
 
