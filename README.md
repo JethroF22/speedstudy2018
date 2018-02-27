@@ -10,7 +10,7 @@
 * Current Book: You Don't Know JS: Scope & Closures
 * Current Course : [The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition/)
 * Courses Completed: 1
-* Total Points earned: 1950
+* Total Points earned: 2050
 
 | Date Finished | Activity                | Points | Links |
 | ------------- | ----------------------- | ------ | ----- |
@@ -29,6 +29,8 @@
 | 20/02         | Video Tutorialx6 | 300     | ----- |
 | 21/02         | Video Tutorial | 50     | ----- |
 | 22/02         | Video Tutorial | 50     | ----- |
+| 23/02         | Video Tutorial | 50     | ----- |
+| 26/02         | Video Tutorial | 50     | ----- |
 
 ## On the side
 
