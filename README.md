@@ -10,27 +10,32 @@
 * Current Book: You Don't Know JS: Scope & Closures
 * Current Course : [The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition/)
 * Courses Completed: 1
-* Total Points earned: 2050
+* Total Points earned: 2310
 
-| Date Finished | Activity                | Points | Links |
-| ------------- | ----------------------- | ------ | ----- |
-| 14/02         | Physical Activity (2hr) | 40     | ----- |
-| 14/02         | Video Tutorialx4 | 200     | ----- |
-| 15/02         | Physical Activity (2hr) | 40     | ----- |
-| 15/02         | Video Tutorialx4 | 200     | ----- |
-| 16/02         | Physical Activity (2hr) | 40     | ----- |
-| 16/02         | Video Tutorialx4 | 200     | ----- |
-| 17/02         | Video Tutorialx4 | 200     | ----- |
-| 18/02         | Video Tutorialx2 | 100     | ----- |
-| 19/02         | Physical Activity (2hr) | 40     | ----- |
-| 19/02         | Video Tutorialx5 | 250     | ----- |
-| 19/02         | Completed YDKJS: Up & Going | 200     | [Read Online](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |
-| 20/02         | Physical Activity (2hr) | 40     | ----- |
-| 20/02         | Video Tutorialx6 | 300     | ----- |
-| 21/02         | Video Tutorial | 50     | ----- |
-| 22/02         | Video Tutorial | 50     | ----- |
-| 23/02         | Video Tutorial | 50     | ----- |
-| 26/02         | Video Tutorial | 50     | ----- |
+| Date Finished | Activity                    | Points | Links                                                                                                                     |
+| ------------- | --------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------- |
+| 14/02         | Physical Activity (2hr)     | 40     | -----                                                                                                                     |
+| 14/02         | Video Tutorial x4           | 200    | -----                                                                                                                     |
+| 15/02         | Physical Activity (2hr)     | 40     | -----                                                                                                                     |
+| 15/02         | Video Tutorial x4           | 200    | -----                                                                                                                     |
+| 16/02         | Physical Activity (2hr)     | 40     | -----                                                                                                                     |
+| 16/02         | Video Tutorial x4           | 200    | -----                                                                                                                     |
+| 17/02         | Video Tutorial x4           | 200    | -----                                                                                                                     |
+| 18/02         | Video Tutorial x2           | 100    | -----                                                                                                                     |
+| 19/02         | Physical Activity (2hr)     | 40     | -----                                                                                                                     |
+| 19/02         | Video Tutorial x5           | 250    | -----                                                                                                                     |
+| 19/02         | Completed YDKJS: Up & Going | 200    | [Read Online](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) |
+| 20/02         | Physical Activity (2hr)     | 40     | -----                                                                                                                     |
+| 20/02         | Video Tutorial x6           | 300    | -----                                                                                                                     |
+| 21/02         | Video Tutorial              | 50     | -----                                                                                                                     |
+| 21/02         | Physical Activity (2hr)     | 40     | -----                                                                                                                     |
+| 22/02         | Video Tutorial              | 50     | -----                                                                                                                     |
+| 22/02         | Physical Activity (2hr)     | 40     | -----                                                                                                                     |
+| 23/02         | Video Tutorial              | 50     | -----                                                                                                                     |
+| 23/02         | Physical Activity (2hr)     | 40     | -----                                                                                                                     |
+| 26/02         | Video Tutorial              | 50     | -----                                                                                                                     |
+| 26/02         | Physical Activity (2hr)     | 40     | -----                                                                                                                     |
+| 28/02         | Video Tutorial x2           | 100    | -----                                                                                                                     |
 
 ## On the side
 
