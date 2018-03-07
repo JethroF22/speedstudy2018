@@ -10,7 +10,7 @@
 * Current Book: You Don't Know JS: Scope & Closures
 * Current Course : [The Complete React Web Developer Course (with Redux)](https://www.udemy.com/react-2nd-edition/)
 * Courses Completed: 1
-* Total Points earned: 2310
+* Total Points earned: 2510
 
 | Date Finished | Activity                    | Points | Links                                                                                                                     |
 | ------------- | --------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------- |
@@ -36,6 +36,8 @@
 | 26/02         | Video Tutorial              | 50     | -----                                                                                                                     |
 | 26/02         | Physical Activity (2hr)     | 40     | -----                                                                                                                     |
 | 28/02         | Video Tutorial x2           | 100    | -----                                                                                                                     |
+| 06/03         | Completed YDKJS: Scope & Closures | 200    | [Read Online](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) |
+
 
 ## On the side
 
@@ -47,7 +49,7 @@
 ## Tier 1 - getting started
 
 * [x] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
-* [ ] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+* [x] Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
 * [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 * [ ] Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
 * [ ] Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
